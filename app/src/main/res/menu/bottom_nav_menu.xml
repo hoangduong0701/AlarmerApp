@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_alarms"
+        android:icon="@drawable/ic_baseline_alarm_24"
+        android:title="Báo thức" />
+    <item
+        android:id="@+id/nav_stopwatcher"
+        android:icon="@drawable/ic_baseline_timer_24"
+        android:title="Bấm giờ" />
+    <item
+        android:id="@+id/nav_timer"
+        android:icon="@drawable/ic_baseline_timelapse_24"
+        android:title="Hẹn giờ" />
+</menu>
